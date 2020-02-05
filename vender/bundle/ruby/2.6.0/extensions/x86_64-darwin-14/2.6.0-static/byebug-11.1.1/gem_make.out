@@ -1,0 +1,19 @@
+current directory: /Users/ijgn-build_mac/matsuda/rails-api/vender/bundle/ruby/2.6.0/gems/byebug-11.1.1/ext/byebug
+/Users/ijgn-build_mac/.rbenv/versions/2.6.2/bin/ruby -I /Users/ijgn-build_mac/.rbenv/versions/2.6.2/lib/ruby/2.6.0 -r ./siteconf20200205-97536-1pbyrki.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ijgn-build_mac/matsuda/rails-api/vender/bundle/ruby/2.6.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/ijgn-build_mac/matsuda/rails-api/vender/bundle/ruby/2.6.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/ijgn-build_mac/matsuda/rails-api/vender/bundle/ruby/2.6.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20200205-97536-t6k5g/byebug

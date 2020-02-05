@@ -1,0 +1,15 @@
+current directory: /Users/ijgn-build_mac/matsuda/rails-api/vender/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/ijgn-build_mac/.rbenv/versions/2.6.2/bin/ruby -I /Users/ijgn-build_mac/.rbenv/versions/2.6.2/lib/ruby/2.6.0 -r ./siteconf20200205-89952-1tt5sx3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ijgn-build_mac/matsuda/rails-api/vender/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/ijgn-build_mac/matsuda/rails-api/vender/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/ijgn-build_mac/matsuda/rails-api/vender/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20200205-89952-zsrlq9
